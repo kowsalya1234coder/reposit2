@@ -3,8 +3,8 @@ import random
 import mysql.connector as db
 con=db.connect(host='localhost',
                user='root',
-               password='bhargav@52',
-               database='bhargav',
+               password='Kowsalya@1',
+               database='Kowsalya',
                auth_plugin='mysql_native_password')
 
 mycursor=con.cursor()
